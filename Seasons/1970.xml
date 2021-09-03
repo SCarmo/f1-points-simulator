@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1970" limit="30" offset="0" total="13">
+	<RaceTable season="1970">
+		<Race season="1970" round="1" url="http://en.wikipedia.org/wiki/1970_South_African_Grand_Prix">
+			<RaceName>South African Grand Prix</RaceName>
+			<Circuit circuitId="kyalami" url="http://en.wikipedia.org/wiki/Kyalami">
+				<CircuitName>Kyalami</CircuitName>
+				<Location lat="-25.9894" long="28.0767">
+					<Locality>Midrand</Locality>
+					<Country>South Africa</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-03-07</Date>
+		</Race>
+		<Race season="1970" round="2" url="http://en.wikipedia.org/wiki/1970_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="jarama" url="http://en.wikipedia.org/wiki/Circuito_Permanente_Del_Jarama">
+				<CircuitName>Jarama</CircuitName>
+				<Location lat="40.6171" long="-3.58558">
+					<Locality>Madrid</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-04-19</Date>
+		</Race>
+		<Race season="1970" round="3" url="http://en.wikipedia.org/wiki/1970_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-05-10</Date>
+		</Race>
+		<Race season="1970" round="4" url="http://en.wikipedia.org/wiki/1970_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-06-07</Date>
+		</Race>
+		<Race season="1970" round="5" url="http://en.wikipedia.org/wiki/1970_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-06-21</Date>
+		</Race>
+		<Race season="1970" round="6" url="http://en.wikipedia.org/wiki/1970_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="charade" url="http://en.wikipedia.org/wiki/Charade_Circuit">
+				<CircuitName>Charade Circuit</CircuitName>
+				<Location lat="45.7472" long="3.03889">
+					<Locality>Clermont-Ferrand</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-07-05</Date>
+		</Race>
+		<Race season="1970" round="7" url="http://en.wikipedia.org/wiki/1970_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="brands_hatch" url="http://en.wikipedia.org/wiki/Brands_Hatch">
+				<CircuitName>Brands Hatch</CircuitName>
+				<Location lat="51.3569" long="0.263056">
+					<Locality>Kent</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-07-18</Date>
+		</Race>
+		<Race season="1970" round="8" url="http://en.wikipedia.org/wiki/1970_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="hockenheimring" url="http://en.wikipedia.org/wiki/Hockenheimring">
+				<CircuitName>Hockenheimring</CircuitName>
+				<Location lat="49.3278" long="8.56583">
+					<Locality>Hockenheim</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-08-02</Date>
+		</Race>
+		<Race season="1970" round="9" url="http://en.wikipedia.org/wiki/1970_Austrian_Grand_Prix">
+			<RaceName>Austrian Grand Prix</RaceName>
+			<Circuit circuitId="osterreichring" url="http://en.wikipedia.org/wiki/A1-Ring">
+				<CircuitName>A1-Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-08-16</Date>
+		</Race>
+		<Race season="1970" round="10" url="http://en.wikipedia.org/wiki/1970_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-09-06</Date>
+		</Race>
+		<Race season="1970" round="11" url="http://en.wikipedia.org/wiki/1970_Canadian_Grand_Prix">
+			<RaceName>Canadian Grand Prix</RaceName>
+			<Circuit circuitId="tremblant" url="http://en.wikipedia.org/wiki/Circuit_Mont-Tremblant">
+				<CircuitName>Circuit Mont-Tremblant</CircuitName>
+				<Location lat="46.1877" long="-74.6099">
+					<Locality>Quebec</Locality>
+					<Country>Canada</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-09-20</Date>
+		</Race>
+		<Race season="1970" round="12" url="http://en.wikipedia.org/wiki/1970_United_States_Grand_Prix">
+			<RaceName>United States Grand Prix</RaceName>
+			<Circuit circuitId="watkins_glen" url="http://en.wikipedia.org/wiki/Watkins_Glen_International">
+				<CircuitName>Watkins Glen</CircuitName>
+				<Location lat="42.3369" long="-76.9272">
+					<Locality>New York State</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-10-04</Date>
+		</Race>
+		<Race season="1970" round="13" url="http://en.wikipedia.org/wiki/1970_Mexican_Grand_Prix">
+			<RaceName>Mexican Grand Prix</RaceName>
+			<Circuit circuitId="rodriguez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez">
+				<CircuitName>Autódromo Hermanos Rodríguez</CircuitName>
+				<Location lat="19.4042" long="-99.0907">
+					<Locality>Mexico City</Locality>
+					<Country>Mexico</Country>
+				</Location>
+			</Circuit>
+			<Date>1970-10-25</Date>
+		</Race>
+	</RaceTable>
+</MRData>

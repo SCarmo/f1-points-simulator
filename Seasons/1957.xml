@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1957" limit="30" offset="0" total="8">
+	<RaceTable season="1957">
+		<Race season="1957" round="1" url="http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix">
+			<RaceName>Argentine Grand Prix</RaceName>
+			<Circuit circuitId="galvez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez">
+				<CircuitName>Autódromo Juan y Oscar Gálvez</CircuitName>
+				<Location lat="-34.6943" long="-58.4593">
+					<Locality>Buenos Aires</Locality>
+					<Country>Argentina</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-01-13</Date>
+		</Race>
+		<Race season="1957" round="2" url="http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-05-19</Date>
+		</Race>
+		<Race season="1957" round="3" url="http://en.wikipedia.org/wiki/1957_Indianapolis_500">
+			<RaceName>Indianapolis 500</RaceName>
+			<Circuit circuitId="indianapolis" url="http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway">
+				<CircuitName>Indianapolis Motor Speedway</CircuitName>
+				<Location lat="39.795" long="-86.2347">
+					<Locality>Indianapolis</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-05-30</Date>
+		</Race>
+		<Race season="1957" round="4" url="http://en.wikipedia.org/wiki/1957_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="essarts" url="http://en.wikipedia.org/wiki/Rouen-Les-Essarts">
+				<CircuitName>Rouen-Les-Essarts</CircuitName>
+				<Location lat="49.3306" long="1.00458">
+					<Locality>Rouen</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-07-07</Date>
+		</Race>
+		<Race season="1957" round="5" url="http://en.wikipedia.org/wiki/1957_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="aintree" url="http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit">
+				<CircuitName>Aintree</CircuitName>
+				<Location lat="53.4769" long="-2.94056">
+					<Locality>Liverpool</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-07-20</Date>
+		</Race>
+		<Race season="1957" round="6" url="http://en.wikipedia.org/wiki/1957_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-08-04</Date>
+		</Race>
+		<Race season="1957" round="7" url="http://en.wikipedia.org/wiki/1957_Pescara_Grand_Prix">
+			<RaceName>Pescara Grand Prix</RaceName>
+			<Circuit circuitId="pescara" url="http://en.wikipedia.org/wiki/Pescara_Circuit">
+				<CircuitName>Pescara Circuit</CircuitName>
+				<Location lat="42.475" long="14.1508">
+					<Locality>Pescara</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-08-18</Date>
+		</Race>
+		<Race season="1957" round="8" url="http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1957-09-08</Date>
+		</Race>
+	</RaceTable>
+</MRData>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/2020" limit="30" offset="0" total="17">
+	<RaceTable season="2020">
+		<Race season="2020" round="1" url="https://en.wikipedia.org/wiki/2020_Austrian_Grand_Prix">
+			<RaceName>Austrian Grand Prix</RaceName>
+			<Circuit circuitId="red_bull_ring" url="http://en.wikipedia.org/wiki/Red_Bull_Ring">
+				<CircuitName>Red Bull Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-07-05</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="2" url="https://en.wikipedia.org/wiki/2020_Styrian_Grand_Prix">
+			<RaceName>Styrian Grand Prix</RaceName>
+			<Circuit circuitId="red_bull_ring" url="http://en.wikipedia.org/wiki/Red_Bull_Ring">
+				<CircuitName>Red Bull Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-07-12</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="3" url="https://en.wikipedia.org/wiki/2020_Hungarian_Grand_Prix">
+			<RaceName>Hungarian Grand Prix</RaceName>
+			<Circuit circuitId="hungaroring" url="http://en.wikipedia.org/wiki/Hungaroring">
+				<CircuitName>Hungaroring</CircuitName>
+				<Location lat="47.5789" long="19.2486">
+					<Locality>Budapest</Locality>
+					<Country>Hungary</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-07-19</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="4" url="https://en.wikipedia.org/wiki/2020_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-08-02</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="5" url="https://en.wikipedia.org/wiki/70th_Anniversary_Grand_Prix">
+			<RaceName>70th Anniversary Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-08-09</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="6" url="https://en.wikipedia.org/wiki/2020_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="catalunya" url="http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya">
+				<CircuitName>Circuit de Barcelona-Catalunya</CircuitName>
+				<Location lat="41.57" long="2.26111">
+					<Locality>Montmeló</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-08-16</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="7" url="https://en.wikipedia.org/wiki/2020_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-08-30</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="8" url="https://en.wikipedia.org/wiki/2020_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-09-06</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="9" url="https://en.wikipedia.org/wiki/2020_Tuscan_Grand_Prix">
+			<RaceName>Tuscan Grand Prix</RaceName>
+			<Circuit circuitId="mugello" url="http://en.wikipedia.org/wiki/Mugello_Circuit">
+				<CircuitName>Autodromo Internazionale del Mugello</CircuitName>
+				<Location lat="43.9975" long="11.3719">
+					<Locality>Mugello</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-09-13</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="10" url="https://en.wikipedia.org/wiki/2020_Russian_Grand_Prix">
+			<RaceName>Russian Grand Prix</RaceName>
+			<Circuit circuitId="sochi" url="http://en.wikipedia.org/wiki/Sochi_Autodrom">
+				<CircuitName>Sochi Autodrom</CircuitName>
+				<Location lat="43.4057" long="39.9578">
+					<Locality>Sochi</Locality>
+					<Country>Russia</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-09-27</Date>
+			<Time>11:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="11" url="https://en.wikipedia.org/wiki/2020_Eifel_Grand_Prix">
+			<RaceName>Eifel Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-10-11</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="12" url="https://en.wikipedia.org/wiki/2020_Portuguese_Grand_Prix">
+			<RaceName>Portuguese Grand Prix</RaceName>
+			<Circuit circuitId="portimao" url="http://en.wikipedia.org/wiki/Algarve_International_Circuit">
+				<CircuitName>Autódromo Internacional do Algarve</CircuitName>
+				<Location lat="37.227" long="-8.6267">
+					<Locality>Portimão</Locality>
+					<Country>Portugal</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-10-25</Date>
+			<Time>12:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="13" url="https://en.wikipedia.org/wiki/2020_Emilia_Romagna_Grand_Prix">
+			<RaceName>Emilia Romagna Grand Prix</RaceName>
+			<Circuit circuitId="imola" url="http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari">
+				<CircuitName>Autodromo Enzo e Dino Ferrari</CircuitName>
+				<Location lat="44.3439" long="11.7167">
+					<Locality>Imola</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-11-01</Date>
+			<Time>12:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="14" url="https://en.wikipedia.org/wiki/2020_Turkish_Grand_Prix">
+			<RaceName>Turkish Grand Prix</RaceName>
+			<Circuit circuitId="istanbul" url="http://en.wikipedia.org/wiki/Istanbul_Park">
+				<CircuitName>Istanbul Park</CircuitName>
+				<Location lat="40.9517" long="29.405">
+					<Locality>Istanbul</Locality>
+					<Country>Turkey</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-11-15</Date>
+			<Time>10:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="15" url="https://en.wikipedia.org/wiki/2020_Bahrain_Grand_Prix">
+			<RaceName>Bahrain Grand Prix</RaceName>
+			<Circuit circuitId="bahrain" url="http://en.wikipedia.org/wiki/Bahrain_International_Circuit">
+				<CircuitName>Bahrain International Circuit</CircuitName>
+				<Location lat="26.0325" long="50.5106">
+					<Locality>Sakhir</Locality>
+					<Country>Bahrain</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-11-29</Date>
+			<Time>14:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="16" url="https://en.wikipedia.org/wiki/2020_Sakhir_Grand_Prix">
+			<RaceName>Sakhir Grand Prix</RaceName>
+			<Circuit circuitId="bahrain" url="http://en.wikipedia.org/wiki/Bahrain_International_Circuit">
+				<CircuitName>Bahrain International Circuit</CircuitName>
+				<Location lat="26.0325" long="50.5106">
+					<Locality>Sakhir</Locality>
+					<Country>Bahrain</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-12-06</Date>
+			<Time>17:10:00Z</Time>
+		</Race>
+		<Race season="2020" round="17" url="https://en.wikipedia.org/wiki/2020_Abu_Dhabi_Grand_Prix">
+			<RaceName>Abu Dhabi Grand Prix</RaceName>
+			<Circuit circuitId="yas_marina" url="http://en.wikipedia.org/wiki/Yas_Marina_Circuit">
+				<CircuitName>Yas Marina Circuit</CircuitName>
+				<Location lat="24.4672" long="54.6031">
+					<Locality>Abu Dhabi</Locality>
+					<Country>UAE</Country>
+				</Location>
+			</Circuit>
+			<Date>2020-12-13</Date>
+			<Time>13:10:00Z</Time>
+		</Race>
+	</RaceTable>
+</MRData>

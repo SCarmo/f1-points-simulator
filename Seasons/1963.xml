@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1963" limit="30" offset="0" total="10">
+	<RaceTable season="1963">
+		<Race season="1963" round="1" url="http://en.wikipedia.org/wiki/1963_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-05-26</Date>
+		</Race>
+		<Race season="1963" round="2" url="http://en.wikipedia.org/wiki/1963_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-06-09</Date>
+		</Race>
+		<Race season="1963" round="3" url="http://en.wikipedia.org/wiki/1963_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-06-23</Date>
+		</Race>
+		<Race season="1963" round="4" url="http://en.wikipedia.org/wiki/1963_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="reims" url="http://en.wikipedia.org/wiki/Reims-Gueux">
+				<CircuitName>Reims-Gueux</CircuitName>
+				<Location lat="49.2542" long="3.93083">
+					<Locality>Reims</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-06-30</Date>
+		</Race>
+		<Race season="1963" round="5" url="http://en.wikipedia.org/wiki/1963_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-07-20</Date>
+		</Race>
+		<Race season="1963" round="6" url="http://en.wikipedia.org/wiki/1963_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-08-04</Date>
+		</Race>
+		<Race season="1963" round="7" url="http://en.wikipedia.org/wiki/1963_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-09-08</Date>
+		</Race>
+		<Race season="1963" round="8" url="http://en.wikipedia.org/wiki/1963_United_States_Grand_Prix">
+			<RaceName>United States Grand Prix</RaceName>
+			<Circuit circuitId="watkins_glen" url="http://en.wikipedia.org/wiki/Watkins_Glen_International">
+				<CircuitName>Watkins Glen</CircuitName>
+				<Location lat="42.3369" long="-76.9272">
+					<Locality>New York State</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-10-06</Date>
+		</Race>
+		<Race season="1963" round="9" url="http://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix">
+			<RaceName>Mexican Grand Prix</RaceName>
+			<Circuit circuitId="rodriguez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez">
+				<CircuitName>Autódromo Hermanos Rodríguez</CircuitName>
+				<Location lat="19.4042" long="-99.0907">
+					<Locality>Mexico City</Locality>
+					<Country>Mexico</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-10-27</Date>
+		</Race>
+		<Race season="1963" round="10" url="http://en.wikipedia.org/wiki/1963_South_African_Grand_Prix">
+			<RaceName>South African Grand Prix</RaceName>
+			<Circuit circuitId="george" url="http://en.wikipedia.org/wiki/Prince_George_Circuit">
+				<CircuitName>Prince George Circuit</CircuitName>
+				<Location lat="-33.0486" long="27.8736">
+					<Locality>Eastern Cape Province</Locality>
+					<Country>South Africa</Country>
+				</Location>
+			</Circuit>
+			<Date>1963-12-28</Date>
+		</Race>
+	</RaceTable>
+</MRData>

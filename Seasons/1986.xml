@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1986" limit="30" offset="0" total="16">
+	<RaceTable season="1986">
+		<Race season="1986" round="1" url="http://en.wikipedia.org/wiki/1986_Brazilian_Grand_Prix">
+			<RaceName>Brazilian Grand Prix</RaceName>
+			<Circuit circuitId="jacarepagua" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet">
+				<CircuitName>Autódromo Internacional Nelson Piquet</CircuitName>
+				<Location lat="-22.9756" long="-43.395">
+					<Locality>Rio de Janeiro</Locality>
+					<Country>Brazil</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-03-23</Date>
+		</Race>
+		<Race season="1986" round="2" url="http://en.wikipedia.org/wiki/1986_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="jerez" url="http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez">
+				<CircuitName>Circuito de Jerez</CircuitName>
+				<Location lat="36.7083" long="-6.03417">
+					<Locality>Jerez de la Frontera</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-04-13</Date>
+		</Race>
+		<Race season="1986" round="3" url="http://en.wikipedia.org/wiki/1986_San_Marino_Grand_Prix">
+			<RaceName>San Marino Grand Prix</RaceName>
+			<Circuit circuitId="imola" url="http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari">
+				<CircuitName>Autodromo Enzo e Dino Ferrari</CircuitName>
+				<Location lat="44.3439" long="11.7167">
+					<Locality>Imola</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-04-27</Date>
+		</Race>
+		<Race season="1986" round="4" url="http://en.wikipedia.org/wiki/1986_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-05-11</Date>
+		</Race>
+		<Race season="1986" round="5" url="http://en.wikipedia.org/wiki/1986_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-05-25</Date>
+		</Race>
+		<Race season="1986" round="6" url="http://en.wikipedia.org/wiki/1986_Canadian_Grand_Prix">
+			<RaceName>Canadian Grand Prix</RaceName>
+			<Circuit circuitId="villeneuve" url="http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve">
+				<CircuitName>Circuit Gilles Villeneuve</CircuitName>
+				<Location lat="45.5" long="-73.5228">
+					<Locality>Montreal</Locality>
+					<Country>Canada</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-06-15</Date>
+		</Race>
+		<Race season="1986" round="7" url="http://en.wikipedia.org/wiki/1986_Detroit_Grand_Prix">
+			<RaceName>Detroit Grand Prix</RaceName>
+			<Circuit circuitId="detroit" url="http://en.wikipedia.org/wiki/Detroit_street_circuit">
+				<CircuitName>Detroit Street Circuit</CircuitName>
+				<Location lat="42.3298" long="-83.0401">
+					<Locality>Detroit</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-06-22</Date>
+		</Race>
+		<Race season="1986" round="8" url="http://en.wikipedia.org/wiki/1986_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="ricard" url="http://en.wikipedia.org/wiki/Paul_Ricard_Circuit">
+				<CircuitName>Circuit Paul Ricard</CircuitName>
+				<Location lat="43.2506" long="5.79167">
+					<Locality>Le Castellet</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-07-06</Date>
+		</Race>
+		<Race season="1986" round="9" url="http://en.wikipedia.org/wiki/1986_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="brands_hatch" url="http://en.wikipedia.org/wiki/Brands_Hatch">
+				<CircuitName>Brands Hatch</CircuitName>
+				<Location lat="51.3569" long="0.263056">
+					<Locality>Kent</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-07-13</Date>
+		</Race>
+		<Race season="1986" round="10" url="http://en.wikipedia.org/wiki/1986_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="hockenheimring" url="http://en.wikipedia.org/wiki/Hockenheimring">
+				<CircuitName>Hockenheimring</CircuitName>
+				<Location lat="49.3278" long="8.56583">
+					<Locality>Hockenheim</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-07-27</Date>
+		</Race>
+		<Race season="1986" round="11" url="http://en.wikipedia.org/wiki/1986_Hungarian_Grand_Prix">
+			<RaceName>Hungarian Grand Prix</RaceName>
+			<Circuit circuitId="hungaroring" url="http://en.wikipedia.org/wiki/Hungaroring">
+				<CircuitName>Hungaroring</CircuitName>
+				<Location lat="47.5789" long="19.2486">
+					<Locality>Budapest</Locality>
+					<Country>Hungary</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-08-10</Date>
+		</Race>
+		<Race season="1986" round="12" url="http://en.wikipedia.org/wiki/1986_Austrian_Grand_Prix">
+			<RaceName>Austrian Grand Prix</RaceName>
+			<Circuit circuitId="osterreichring" url="http://en.wikipedia.org/wiki/A1-Ring">
+				<CircuitName>A1-Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-08-17</Date>
+		</Race>
+		<Race season="1986" round="13" url="http://en.wikipedia.org/wiki/1986_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-09-07</Date>
+		</Race>
+		<Race season="1986" round="14" url="http://en.wikipedia.org/wiki/1986_Portuguese_Grand_Prix">
+			<RaceName>Portuguese Grand Prix</RaceName>
+			<Circuit circuitId="estoril" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril">
+				<CircuitName>Autódromo do Estoril</CircuitName>
+				<Location lat="38.7506" long="-9.39417">
+					<Locality>Estoril</Locality>
+					<Country>Portugal</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-09-21</Date>
+		</Race>
+		<Race season="1986" round="15" url="http://en.wikipedia.org/wiki/1986_Mexican_Grand_Prix">
+			<RaceName>Mexican Grand Prix</RaceName>
+			<Circuit circuitId="rodriguez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez">
+				<CircuitName>Autódromo Hermanos Rodríguez</CircuitName>
+				<Location lat="19.4042" long="-99.0907">
+					<Locality>Mexico City</Locality>
+					<Country>Mexico</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-10-12</Date>
+		</Race>
+		<Race season="1986" round="16" url="http://en.wikipedia.org/wiki/1986_Australian_Grand_Prix">
+			<RaceName>Australian Grand Prix</RaceName>
+			<Circuit circuitId="adelaide" url="http://en.wikipedia.org/wiki/Adelaide_Street_Circuit">
+				<CircuitName>Adelaide Street Circuit</CircuitName>
+				<Location lat="-34.9272" long="138.617">
+					<Locality>Adelaide</Locality>
+					<Country>Australia</Country>
+				</Location>
+			</Circuit>
+			<Date>1986-10-26</Date>
+		</Race>
+	</RaceTable>
+</MRData>

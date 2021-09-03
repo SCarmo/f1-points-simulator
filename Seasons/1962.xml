@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1962" limit="30" offset="0" total="9">
+	<RaceTable season="1962">
+		<Race season="1962" round="1" url="http://en.wikipedia.org/wiki/1962_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-05-20</Date>
+		</Race>
+		<Race season="1962" round="2" url="http://en.wikipedia.org/wiki/1962_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-06-03</Date>
+		</Race>
+		<Race season="1962" round="3" url="http://en.wikipedia.org/wiki/1962_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-06-17</Date>
+		</Race>
+		<Race season="1962" round="4" url="http://en.wikipedia.org/wiki/1962_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="essarts" url="http://en.wikipedia.org/wiki/Rouen-Les-Essarts">
+				<CircuitName>Rouen-Les-Essarts</CircuitName>
+				<Location lat="49.3306" long="1.00458">
+					<Locality>Rouen</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-07-08</Date>
+		</Race>
+		<Race season="1962" round="5" url="http://en.wikipedia.org/wiki/1962_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="aintree" url="http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit">
+				<CircuitName>Aintree</CircuitName>
+				<Location lat="53.4769" long="-2.94056">
+					<Locality>Liverpool</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-07-21</Date>
+		</Race>
+		<Race season="1962" round="6" url="http://en.wikipedia.org/wiki/1962_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-08-05</Date>
+		</Race>
+		<Race season="1962" round="7" url="http://en.wikipedia.org/wiki/1962_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-09-16</Date>
+		</Race>
+		<Race season="1962" round="8" url="http://en.wikipedia.org/wiki/1962_United_States_Grand_Prix">
+			<RaceName>United States Grand Prix</RaceName>
+			<Circuit circuitId="watkins_glen" url="http://en.wikipedia.org/wiki/Watkins_Glen_International">
+				<CircuitName>Watkins Glen</CircuitName>
+				<Location lat="42.3369" long="-76.9272">
+					<Locality>New York State</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-10-07</Date>
+		</Race>
+		<Race season="1962" round="9" url="http://en.wikipedia.org/wiki/1962_South_African_Grand_Prix">
+			<RaceName>South African Grand Prix</RaceName>
+			<Circuit circuitId="george" url="http://en.wikipedia.org/wiki/Prince_George_Circuit">
+				<CircuitName>Prince George Circuit</CircuitName>
+				<Location lat="-33.0486" long="27.8736">
+					<Locality>Eastern Cape Province</Locality>
+					<Country>South Africa</Country>
+				</Location>
+			</Circuit>
+			<Date>1962-12-29</Date>
+		</Race>
+	</RaceTable>
+</MRData>

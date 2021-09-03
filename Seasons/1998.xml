@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1998" limit="30" offset="0" total="16">
+	<RaceTable season="1998">
+		<Race season="1998" round="1" url="http://en.wikipedia.org/wiki/1998_Australian_Grand_Prix">
+			<RaceName>Australian Grand Prix</RaceName>
+			<Circuit circuitId="albert_park" url="http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit">
+				<CircuitName>Albert Park Grand Prix Circuit</CircuitName>
+				<Location lat="-37.8497" long="144.968">
+					<Locality>Melbourne</Locality>
+					<Country>Australia</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-03-08</Date>
+		</Race>
+		<Race season="1998" round="2" url="http://en.wikipedia.org/wiki/1998_Brazilian_Grand_Prix">
+			<RaceName>Brazilian Grand Prix</RaceName>
+			<Circuit circuitId="interlagos" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace">
+				<CircuitName>Autódromo José Carlos Pace</CircuitName>
+				<Location lat="-23.7036" long="-46.6997">
+					<Locality>São Paulo</Locality>
+					<Country>Brazil</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-03-29</Date>
+		</Race>
+		<Race season="1998" round="3" url="http://en.wikipedia.org/wiki/1998_Argentine_Grand_Prix">
+			<RaceName>Argentine Grand Prix</RaceName>
+			<Circuit circuitId="galvez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez">
+				<CircuitName>Autódromo Juan y Oscar Gálvez</CircuitName>
+				<Location lat="-34.6943" long="-58.4593">
+					<Locality>Buenos Aires</Locality>
+					<Country>Argentina</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-04-12</Date>
+		</Race>
+		<Race season="1998" round="4" url="http://en.wikipedia.org/wiki/1998_San_Marino_Grand_Prix">
+			<RaceName>San Marino Grand Prix</RaceName>
+			<Circuit circuitId="imola" url="http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari">
+				<CircuitName>Autodromo Enzo e Dino Ferrari</CircuitName>
+				<Location lat="44.3439" long="11.7167">
+					<Locality>Imola</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-04-26</Date>
+		</Race>
+		<Race season="1998" round="5" url="http://en.wikipedia.org/wiki/1998_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="catalunya" url="http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya">
+				<CircuitName>Circuit de Barcelona-Catalunya</CircuitName>
+				<Location lat="41.57" long="2.26111">
+					<Locality>Montmeló</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-05-10</Date>
+		</Race>
+		<Race season="1998" round="6" url="http://en.wikipedia.org/wiki/1998_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-05-24</Date>
+		</Race>
+		<Race season="1998" round="7" url="http://en.wikipedia.org/wiki/1998_Canadian_Grand_Prix">
+			<RaceName>Canadian Grand Prix</RaceName>
+			<Circuit circuitId="villeneuve" url="http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve">
+				<CircuitName>Circuit Gilles Villeneuve</CircuitName>
+				<Location lat="45.5" long="-73.5228">
+					<Locality>Montreal</Locality>
+					<Country>Canada</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-06-07</Date>
+		</Race>
+		<Race season="1998" round="8" url="http://en.wikipedia.org/wiki/1998_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="magny_cours" url="http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours">
+				<CircuitName>Circuit de Nevers Magny-Cours</CircuitName>
+				<Location lat="46.8642" long="3.16361">
+					<Locality>Magny Cours</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-06-28</Date>
+		</Race>
+		<Race season="1998" round="9" url="http://en.wikipedia.org/wiki/1998_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-07-12</Date>
+		</Race>
+		<Race season="1998" round="10" url="http://en.wikipedia.org/wiki/1998_Austrian_Grand_Prix">
+			<RaceName>Austrian Grand Prix</RaceName>
+			<Circuit circuitId="osterreichring" url="http://en.wikipedia.org/wiki/A1-Ring">
+				<CircuitName>A1-Ring</CircuitName>
+				<Location lat="47.2197" long="14.7647">
+					<Locality>Spielberg</Locality>
+					<Country>Austria</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-07-26</Date>
+		</Race>
+		<Race season="1998" round="11" url="http://en.wikipedia.org/wiki/1998_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="hockenheimring" url="http://en.wikipedia.org/wiki/Hockenheimring">
+				<CircuitName>Hockenheimring</CircuitName>
+				<Location lat="49.3278" long="8.56583">
+					<Locality>Hockenheim</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-08-02</Date>
+		</Race>
+		<Race season="1998" round="12" url="http://en.wikipedia.org/wiki/1998_Hungarian_Grand_Prix">
+			<RaceName>Hungarian Grand Prix</RaceName>
+			<Circuit circuitId="hungaroring" url="http://en.wikipedia.org/wiki/Hungaroring">
+				<CircuitName>Hungaroring</CircuitName>
+				<Location lat="47.5789" long="19.2486">
+					<Locality>Budapest</Locality>
+					<Country>Hungary</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-08-16</Date>
+		</Race>
+		<Race season="1998" round="13" url="http://en.wikipedia.org/wiki/1998_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-08-30</Date>
+		</Race>
+		<Race season="1998" round="14" url="http://en.wikipedia.org/wiki/1998_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-09-13</Date>
+		</Race>
+		<Race season="1998" round="15" url="http://en.wikipedia.org/wiki/1998_Luxembourg_Grand_Prix">
+			<RaceName>Luxembourg Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-09-27</Date>
+		</Race>
+		<Race season="1998" round="16" url="http://en.wikipedia.org/wiki/1998_Japanese_Grand_Prix">
+			<RaceName>Japanese Grand Prix</RaceName>
+			<Circuit circuitId="suzuka" url="http://en.wikipedia.org/wiki/Suzuka_Circuit">
+				<CircuitName>Suzuka Circuit</CircuitName>
+				<Location lat="34.8431" long="136.541">
+					<Locality>Suzuka</Locality>
+					<Country>Japan</Country>
+				</Location>
+			</Circuit>
+			<Date>1998-11-01</Date>
+		</Race>
+	</RaceTable>
+</MRData>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1961" limit="30" offset="0" total="8">
+	<RaceTable season="1961">
+		<Race season="1961" round="1" url="http://en.wikipedia.org/wiki/1961_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-05-14</Date>
+		</Race>
+		<Race season="1961" round="2" url="http://en.wikipedia.org/wiki/1961_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-05-22</Date>
+		</Race>
+		<Race season="1961" round="3" url="http://en.wikipedia.org/wiki/1961_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-06-18</Date>
+		</Race>
+		<Race season="1961" round="4" url="http://en.wikipedia.org/wiki/1961_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="reims" url="http://en.wikipedia.org/wiki/Reims-Gueux">
+				<CircuitName>Reims-Gueux</CircuitName>
+				<Location lat="49.2542" long="3.93083">
+					<Locality>Reims</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-07-02</Date>
+		</Race>
+		<Race season="1961" round="5" url="http://en.wikipedia.org/wiki/1961_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="aintree" url="http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit">
+				<CircuitName>Aintree</CircuitName>
+				<Location lat="53.4769" long="-2.94056">
+					<Locality>Liverpool</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-07-15</Date>
+		</Race>
+		<Race season="1961" round="6" url="http://en.wikipedia.org/wiki/1961_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-08-06</Date>
+		</Race>
+		<Race season="1961" round="7" url="http://en.wikipedia.org/wiki/1961_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-09-10</Date>
+		</Race>
+		<Race season="1961" round="8" url="http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix">
+			<RaceName>United States Grand Prix</RaceName>
+			<Circuit circuitId="watkins_glen" url="http://en.wikipedia.org/wiki/Watkins_Glen_International">
+				<CircuitName>Watkins Glen</CircuitName>
+				<Location lat="42.3369" long="-76.9272">
+					<Locality>New York State</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1961-10-08</Date>
+		</Race>
+	</RaceTable>
+</MRData>

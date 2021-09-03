@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1969" limit="30" offset="0" total="11">
+	<RaceTable season="1969">
+		<Race season="1969" round="1" url="http://en.wikipedia.org/wiki/1969_South_African_Grand_Prix">
+			<RaceName>South African Grand Prix</RaceName>
+			<Circuit circuitId="kyalami" url="http://en.wikipedia.org/wiki/Kyalami">
+				<CircuitName>Kyalami</CircuitName>
+				<Location lat="-25.9894" long="28.0767">
+					<Locality>Midrand</Locality>
+					<Country>South Africa</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-03-01</Date>
+		</Race>
+		<Race season="1969" round="2" url="http://en.wikipedia.org/wiki/1969_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="montjuic" url="http://en.wikipedia.org/wiki/Montju%C3%AFc_circuit">
+				<CircuitName>Montjuïc</CircuitName>
+				<Location lat="41.3664" long="2.15167">
+					<Locality>Barcelona</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-05-04</Date>
+		</Race>
+		<Race season="1969" round="3" url="http://en.wikipedia.org/wiki/1969_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-05-18</Date>
+		</Race>
+		<Race season="1969" round="4" url="http://en.wikipedia.org/wiki/1969_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-06-21</Date>
+		</Race>
+		<Race season="1969" round="5" url="http://en.wikipedia.org/wiki/1969_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="charade" url="http://en.wikipedia.org/wiki/Charade_Circuit">
+				<CircuitName>Charade Circuit</CircuitName>
+				<Location lat="45.7472" long="3.03889">
+					<Locality>Clermont-Ferrand</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-07-06</Date>
+		</Race>
+		<Race season="1969" round="6" url="http://en.wikipedia.org/wiki/1969_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-07-19</Date>
+		</Race>
+		<Race season="1969" round="7" url="http://en.wikipedia.org/wiki/1969_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-08-03</Date>
+		</Race>
+		<Race season="1969" round="8" url="http://en.wikipedia.org/wiki/1969_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-09-07</Date>
+		</Race>
+		<Race season="1969" round="9" url="http://en.wikipedia.org/wiki/1969_Canadian_Grand_Prix">
+			<RaceName>Canadian Grand Prix</RaceName>
+			<Circuit circuitId="mosport" url="http://en.wikipedia.org/wiki/Mosport">
+				<CircuitName>Mosport International Raceway</CircuitName>
+				<Location lat="44.0481" long="-78.6756">
+					<Locality>Ontario</Locality>
+					<Country>Canada</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-09-20</Date>
+		</Race>
+		<Race season="1969" round="10" url="http://en.wikipedia.org/wiki/1969_United_States_Grand_Prix">
+			<RaceName>United States Grand Prix</RaceName>
+			<Circuit circuitId="watkins_glen" url="http://en.wikipedia.org/wiki/Watkins_Glen_International">
+				<CircuitName>Watkins Glen</CircuitName>
+				<Location lat="42.3369" long="-76.9272">
+					<Locality>New York State</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-10-05</Date>
+		</Race>
+		<Race season="1969" round="11" url="http://en.wikipedia.org/wiki/1969_Mexican_Grand_Prix">
+			<RaceName>Mexican Grand Prix</RaceName>
+			<Circuit circuitId="rodriguez" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez">
+				<CircuitName>Autódromo Hermanos Rodríguez</CircuitName>
+				<Location lat="19.4042" long="-99.0907">
+					<Locality>Mexico City</Locality>
+					<Country>Mexico</Country>
+				</Location>
+			</Circuit>
+			<Date>1969-10-19</Date>
+		</Race>
+	</RaceTable>
+</MRData>

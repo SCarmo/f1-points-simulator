@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1952" limit="30" offset="0" total="8">
+	<RaceTable season="1952">
+		<Race season="1952" round="1" url="http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix">
+			<RaceName>Swiss Grand Prix</RaceName>
+			<Circuit circuitId="bremgarten" url="http://en.wikipedia.org/wiki/Circuit_Bremgarten">
+				<CircuitName>Circuit Bremgarten</CircuitName>
+				<Location lat="46.9589" long="7.40194">
+					<Locality>Bern</Locality>
+					<Country>Switzerland</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-05-18</Date>
+		</Race>
+		<Race season="1952" round="2" url="http://en.wikipedia.org/wiki/1952_Indianapolis_500">
+			<RaceName>Indianapolis 500</RaceName>
+			<Circuit circuitId="indianapolis" url="http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway">
+				<CircuitName>Indianapolis Motor Speedway</CircuitName>
+				<Location lat="39.795" long="-86.2347">
+					<Locality>Indianapolis</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-05-30</Date>
+		</Race>
+		<Race season="1952" round="3" url="http://en.wikipedia.org/wiki/1952_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-06-22</Date>
+		</Race>
+		<Race season="1952" round="4" url="http://en.wikipedia.org/wiki/1952_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="essarts" url="http://en.wikipedia.org/wiki/Rouen-Les-Essarts">
+				<CircuitName>Rouen-Les-Essarts</CircuitName>
+				<Location lat="49.3306" long="1.00458">
+					<Locality>Rouen</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-07-06</Date>
+		</Race>
+		<Race season="1952" round="5" url="http://en.wikipedia.org/wiki/1952_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-07-19</Date>
+		</Race>
+		<Race season="1952" round="6" url="http://en.wikipedia.org/wiki/1952_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="nurburgring" url="http://en.wikipedia.org/wiki/N%C3%BCrburgring">
+				<CircuitName>Nürburgring</CircuitName>
+				<Location lat="50.3356" long="6.9475">
+					<Locality>Nürburg</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-08-03</Date>
+		</Race>
+		<Race season="1952" round="7" url="http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix">
+			<RaceName>Dutch Grand Prix</RaceName>
+			<Circuit circuitId="zandvoort" url="http://en.wikipedia.org/wiki/Circuit_Zandvoort">
+				<CircuitName>Circuit Park Zandvoort</CircuitName>
+				<Location lat="52.3888" long="4.54092">
+					<Locality>Zandvoort</Locality>
+					<Country>Netherlands</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-08-17</Date>
+		</Race>
+		<Race season="1952" round="8" url="http://en.wikipedia.org/wiki/1952_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1952-09-07</Date>
+		</Race>
+	</RaceTable>
+</MRData>

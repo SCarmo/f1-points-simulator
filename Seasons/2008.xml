@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/2008" limit="30" offset="0" total="18">
+	<RaceTable season="2008">
+		<Race season="2008" round="1" url="http://en.wikipedia.org/wiki/2008_Australian_Grand_Prix">
+			<RaceName>Australian Grand Prix</RaceName>
+			<Circuit circuitId="albert_park" url="http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit">
+				<CircuitName>Albert Park Grand Prix Circuit</CircuitName>
+				<Location lat="-37.8497" long="144.968">
+					<Locality>Melbourne</Locality>
+					<Country>Australia</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-03-16</Date>
+			<Time>04:30:00Z</Time>
+		</Race>
+		<Race season="2008" round="2" url="http://en.wikipedia.org/wiki/2008_Malaysian_Grand_Prix">
+			<RaceName>Malaysian Grand Prix</RaceName>
+			<Circuit circuitId="sepang" url="http://en.wikipedia.org/wiki/Sepang_International_Circuit">
+				<CircuitName>Sepang International Circuit</CircuitName>
+				<Location lat="2.76083" long="101.738">
+					<Locality>Kuala Lumpur</Locality>
+					<Country>Malaysia</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-03-23</Date>
+			<Time>07:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="3" url="http://en.wikipedia.org/wiki/2008_Bahrain_Grand_Prix">
+			<RaceName>Bahrain Grand Prix</RaceName>
+			<Circuit circuitId="bahrain" url="http://en.wikipedia.org/wiki/Bahrain_International_Circuit">
+				<CircuitName>Bahrain International Circuit</CircuitName>
+				<Location lat="26.0325" long="50.5106">
+					<Locality>Sakhir</Locality>
+					<Country>Bahrain</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-04-06</Date>
+			<Time>11:30:00Z</Time>
+		</Race>
+		<Race season="2008" round="4" url="http://en.wikipedia.org/wiki/2008_Spanish_Grand_Prix">
+			<RaceName>Spanish Grand Prix</RaceName>
+			<Circuit circuitId="catalunya" url="http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya">
+				<CircuitName>Circuit de Barcelona-Catalunya</CircuitName>
+				<Location lat="41.57" long="2.26111">
+					<Locality>Montmeló</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-04-27</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="5" url="http://en.wikipedia.org/wiki/2008_Turkish_Grand_Prix">
+			<RaceName>Turkish Grand Prix</RaceName>
+			<Circuit circuitId="istanbul" url="http://en.wikipedia.org/wiki/Istanbul_Park">
+				<CircuitName>Istanbul Park</CircuitName>
+				<Location lat="40.9517" long="29.405">
+					<Locality>Istanbul</Locality>
+					<Country>Turkey</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-05-11</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="6" url="http://en.wikipedia.org/wiki/2008_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-05-25</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="7" url="http://en.wikipedia.org/wiki/2008_Canadian_Grand_Prix">
+			<RaceName>Canadian Grand Prix</RaceName>
+			<Circuit circuitId="villeneuve" url="http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve">
+				<CircuitName>Circuit Gilles Villeneuve</CircuitName>
+				<Location lat="45.5" long="-73.5228">
+					<Locality>Montreal</Locality>
+					<Country>Canada</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-06-08</Date>
+			<Time>17:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="8" url="http://en.wikipedia.org/wiki/2008_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="magny_cours" url="http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours">
+				<CircuitName>Circuit de Nevers Magny-Cours</CircuitName>
+				<Location lat="46.8642" long="3.16361">
+					<Locality>Magny Cours</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-06-22</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="9" url="http://en.wikipedia.org/wiki/2008_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-07-06</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="10" url="http://en.wikipedia.org/wiki/2008_German_Grand_Prix">
+			<RaceName>German Grand Prix</RaceName>
+			<Circuit circuitId="hockenheimring" url="http://en.wikipedia.org/wiki/Hockenheimring">
+				<CircuitName>Hockenheimring</CircuitName>
+				<Location lat="49.3278" long="8.56583">
+					<Locality>Hockenheim</Locality>
+					<Country>Germany</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-07-20</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="11" url="http://en.wikipedia.org/wiki/2008_Hungarian_Grand_Prix">
+			<RaceName>Hungarian Grand Prix</RaceName>
+			<Circuit circuitId="hungaroring" url="http://en.wikipedia.org/wiki/Hungaroring">
+				<CircuitName>Hungaroring</CircuitName>
+				<Location lat="47.5789" long="19.2486">
+					<Locality>Budapest</Locality>
+					<Country>Hungary</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-08-03</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="12" url="http://en.wikipedia.org/wiki/2008_European_Grand_Prix">
+			<RaceName>European Grand Prix</RaceName>
+			<Circuit circuitId="valencia" url="http://en.wikipedia.org/wiki/Valencia_Street_Circuit">
+				<CircuitName>Valencia Street Circuit</CircuitName>
+				<Location lat="39.4589" long="-0.331667">
+					<Locality>Valencia</Locality>
+					<Country>Spain</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-08-24</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="13" url="http://en.wikipedia.org/wiki/2008_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-09-07</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="14" url="http://en.wikipedia.org/wiki/2008_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-09-14</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="15" url="http://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix">
+			<RaceName>Singapore Grand Prix</RaceName>
+			<Circuit circuitId="marina_bay" url="http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit">
+				<CircuitName>Marina Bay Street Circuit</CircuitName>
+				<Location lat="1.2914" long="103.864">
+					<Locality>Marina Bay</Locality>
+					<Country>Singapore</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-09-28</Date>
+			<Time>12:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="16" url="http://en.wikipedia.org/wiki/2008_Japanese_Grand_Prix">
+			<RaceName>Japanese Grand Prix</RaceName>
+			<Circuit circuitId="fuji" url="http://en.wikipedia.org/wiki/Fuji_Speedway">
+				<CircuitName>Fuji Speedway</CircuitName>
+				<Location lat="35.3717" long="138.927">
+					<Locality>Oyama</Locality>
+					<Country>Japan</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-10-12</Date>
+			<Time>04:30:00Z</Time>
+		</Race>
+		<Race season="2008" round="17" url="http://en.wikipedia.org/wiki/2008_Chinese_Grand_Prix">
+			<RaceName>Chinese Grand Prix</RaceName>
+			<Circuit circuitId="shanghai" url="http://en.wikipedia.org/wiki/Shanghai_International_Circuit">
+				<CircuitName>Shanghai International Circuit</CircuitName>
+				<Location lat="31.3389" long="121.22">
+					<Locality>Shanghai</Locality>
+					<Country>China</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-10-19</Date>
+			<Time>07:00:00Z</Time>
+		</Race>
+		<Race season="2008" round="18" url="http://en.wikipedia.org/wiki/2008_Brazilian_Grand_Prix">
+			<RaceName>Brazilian Grand Prix</RaceName>
+			<Circuit circuitId="interlagos" url="http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace">
+				<CircuitName>Autódromo José Carlos Pace</CircuitName>
+				<Location lat="-23.7036" long="-46.6997">
+					<Locality>São Paulo</Locality>
+					<Country>Brazil</Country>
+				</Location>
+			</Circuit>
+			<Date>2008-11-02</Date>
+			<Time>17:00:00Z</Time>
+		</Race>
+	</RaceTable>
+</MRData>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/schemas/mrd-1.4.xsl"?>
+<MRData xmlns="http://ergast.com/mrd/1.4" series="f1" url="http://ergast.com/api/f1/1950" limit="30" offset="0" total="7">
+	<RaceTable season="1950">
+		<Race season="1950" round="1" url="http://en.wikipedia.org/wiki/1950_British_Grand_Prix">
+			<RaceName>British Grand Prix</RaceName>
+			<Circuit circuitId="silverstone" url="http://en.wikipedia.org/wiki/Silverstone_Circuit">
+				<CircuitName>Silverstone Circuit</CircuitName>
+				<Location lat="52.0786" long="-1.01694">
+					<Locality>Silverstone</Locality>
+					<Country>UK</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-05-13</Date>
+		</Race>
+		<Race season="1950" round="2" url="http://en.wikipedia.org/wiki/1950_Monaco_Grand_Prix">
+			<RaceName>Monaco Grand Prix</RaceName>
+			<Circuit circuitId="monaco" url="http://en.wikipedia.org/wiki/Circuit_de_Monaco">
+				<CircuitName>Circuit de Monaco</CircuitName>
+				<Location lat="43.7347" long="7.42056">
+					<Locality>Monte-Carlo</Locality>
+					<Country>Monaco</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-05-21</Date>
+		</Race>
+		<Race season="1950" round="3" url="http://en.wikipedia.org/wiki/1950_Indianapolis_500">
+			<RaceName>Indianapolis 500</RaceName>
+			<Circuit circuitId="indianapolis" url="http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway">
+				<CircuitName>Indianapolis Motor Speedway</CircuitName>
+				<Location lat="39.795" long="-86.2347">
+					<Locality>Indianapolis</Locality>
+					<Country>USA</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-05-30</Date>
+		</Race>
+		<Race season="1950" round="4" url="http://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix">
+			<RaceName>Swiss Grand Prix</RaceName>
+			<Circuit circuitId="bremgarten" url="http://en.wikipedia.org/wiki/Circuit_Bremgarten">
+				<CircuitName>Circuit Bremgarten</CircuitName>
+				<Location lat="46.9589" long="7.40194">
+					<Locality>Bern</Locality>
+					<Country>Switzerland</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-06-04</Date>
+		</Race>
+		<Race season="1950" round="5" url="http://en.wikipedia.org/wiki/1950_Belgian_Grand_Prix">
+			<RaceName>Belgian Grand Prix</RaceName>
+			<Circuit circuitId="spa" url="http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps">
+				<CircuitName>Circuit de Spa-Francorchamps</CircuitName>
+				<Location lat="50.4372" long="5.97139">
+					<Locality>Spa</Locality>
+					<Country>Belgium</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-06-18</Date>
+		</Race>
+		<Race season="1950" round="6" url="http://en.wikipedia.org/wiki/1950_French_Grand_Prix">
+			<RaceName>French Grand Prix</RaceName>
+			<Circuit circuitId="reims" url="http://en.wikipedia.org/wiki/Reims-Gueux">
+				<CircuitName>Reims-Gueux</CircuitName>
+				<Location lat="49.2542" long="3.93083">
+					<Locality>Reims</Locality>
+					<Country>France</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-07-02</Date>
+		</Race>
+		<Race season="1950" round="7" url="http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix">
+			<RaceName>Italian Grand Prix</RaceName>
+			<Circuit circuitId="monza" url="http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza">
+				<CircuitName>Autodromo Nazionale di Monza</CircuitName>
+				<Location lat="45.6156" long="9.28111">
+					<Locality>Monza</Locality>
+					<Country>Italy</Country>
+				</Location>
+			</Circuit>
+			<Date>1950-09-03</Date>
+		</Race>
+	</RaceTable>
+</MRData>
